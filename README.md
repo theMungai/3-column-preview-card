@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [theMungai - Github](https://github.com/theMungai/3-column-preview-card)
-- Live Site URL: [Vercel.app/](https://your-live-site-url.com)
+- Live Site URL: [Vercel.app/](https://3-column-preview-card-five-alpha.vercel.app/)
 
 ## My process
 
